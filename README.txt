@@ -1,9 +1,11 @@
-Specs:
-1. Use GUI, not in terminal
-2. Will need a scoreboard to keep track of blocks destroyed
-3. Need a paddle and a ball object and blocks
-4. Should be over when all blocks are finished
-5. 4 different colors of blocks, 8 rows
-6. Lose a turn(3 turns) when ball misses rebound and spawns again in the middle
-7. Yel - 1, Gre - 3, Ora - 5, Red - 7pts each
-8. Ball speed increases after each new row and paddle shrinks to half when we reach red
+Created a clone of the 1976 breakout game in python using Turtle and time libraries.
+Instructions To Play:
+1. Move the paddle using the left and right arrow keys.
+2. Hit the blocks with the ball to break them.
+3. Each block has different point values:
+    Yellow: 1
+    Green: 3
+    Orange: 5
+    Red: 7
+4. After clearing each level of blocks, the speed of the ball increases.
+5. ENJOY!!!!!!
